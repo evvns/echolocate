@@ -1,3 +1,4 @@
+// FINALLY I KNOW HOW ALL OF THIS WORKS
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
